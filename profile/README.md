@@ -11,7 +11,7 @@ Since children are also familiar with using smartphones and applications these d
 <br>
 
 ## 📱 Application
-> If the parent and child continue to communicate through our app even when they are apart, the topics of conversation will be abundant, which can lead to improved communication.
+> **If the parent and child continue to communicate through our app even when they are apart, the topics of conversation will be abundant, which can lead to improved communication.**
 ### 👩 Register Question
 - Parent can leave a question in the application.
 - If the child user has not yet registered an answer, the child icon on the parent's main screen appears expressionless.
